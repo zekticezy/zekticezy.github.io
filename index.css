@@ -7,4 +7,10 @@
 @font-face {
     font-family: bahnscrift;
     src: url(BAHNSCHRIFT.TTF);
-  }
+}
+
+.linkbutton {
+    padding: 16px;
+    background: none;
+    border: none;
+}
