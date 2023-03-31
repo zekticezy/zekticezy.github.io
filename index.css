@@ -1,0 +1,10 @@
+.title {
+    color: white;
+    text-align: center;
+    font-family: bahnscrift;;
+}
+
+@font-face {
+    font-family: bahnscrift;
+    src: url(BAHNSCHRIFT.TTF);
+  }
