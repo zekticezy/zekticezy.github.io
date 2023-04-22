@@ -10,12 +10,18 @@
 }
 
 .linkbutton {
-    padding: 16px;
     background: none;
     border: none;
+    height: 200;
+    width: 200;
 }
 
 .header {
     color: white;
     background-image: url(prmtvebg.png);
+}
+
+.links2 {
+    color:white;
+    text-align: center;
 }
