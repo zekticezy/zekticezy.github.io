@@ -1,7 +1,7 @@
 .title {
     color: white;
     text-align: center;
-    font-family: bahnscrift;;
+    font-family: bahnscrift;
 }
 
 @font-face {
@@ -24,4 +24,22 @@
 .links2 {
     color:white;
     text-align: center;
+}
+
+.fourteentwentyseven {
+    background-image: url(img/GPVE5373.PNG);
+    background-repeat:repeat;
+    background-position: center;
+}
+
+.swagmantape {
+    background-image: url(img/tapecover.png);
+    background-repeat:repeat;
+    background-position: center;
+}
+
+.swagmanalbum {
+    background-image: url(img/albumcover.png);
+    background-repeat:repeat;
+    background-position: center;
 }
