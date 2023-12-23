@@ -1,7 +1,7 @@
 .title {
     color: white;
     text-align: center;
-    font-family: bahnscrift;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 @font-face {
@@ -133,4 +133,25 @@
     text-align: center;
     position: relative;
     left: 43%;
+}
+
+.socialsbutton {
+    background-color: #555555;
+    color: white;
+    font-family: monospace;
+    border-radius: 2px;
+    border: none;
+    display: inline-block;
+}
+
+.returntologin {
+    background-color: #555555;
+    color: white;
+    font-family: monospace;
+    border-radius: 2px;
+    border: none;
+    display: inline-block;
+    font-size: 24px;
+    position: relative;
+    left: 2%;
 }
